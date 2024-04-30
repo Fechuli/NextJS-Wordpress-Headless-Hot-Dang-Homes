@@ -1,9 +1,26 @@
 # NextJS-Wordpress-Headless-Hot-Dang-Homes
 
-This project is divided into two different sections. 
-The first, the more massive one, is devoted to Next Js, which I used as the front end of my project. 
+# Project Overview
 
-Secondly we find the section dedicated to Wordpress which, in this case, is managed by the template-parts folder and the function.php file. 
-Inserting all the Wordpress files was rather inconvenient so I thought I would integrate only the most important parts. 
-To develop this project I used Local a rather fast and understandable Wordpress site management software. 
-The site uses Headless technology to use Wordpress as a Backend allowing an eventual client to manage the site quickly and easily without necessarily touching any real code. 
+This project is structured into two main sections:
+
+## 1. Next.js Frontend
+
+The primary and more extensive section of this project is built using **Next.js**. Next.js serves as the frontend framework, leveraging its server-side rendering capabilities to deliver a robust user interface.
+
+## 2. WordPress Backend
+
+The secondary section involves **WordPress** which acts as the backend. This is managed primarily through:
+
+- **Template-Parts Folder**: Contains modular parts of WordPress themes.
+- **function.php File**: Functions file which plays a crucial role in the WordPress theme customization.
+
+### Integration with Local
+
+- **Local by Flywheel**: The development of this WordPress site was facilitated by Local, a user-friendly and efficient WordPress site management tool.
+
+### Headless WordPress
+
+- The project utilizes Headless technology to use WordPress as a backend. This setup allows an eventual client to manage the site content through WordPress without directly interacting with the source code, making content management straightforward and efficient.
+
+--- 
